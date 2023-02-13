@@ -1,0 +1,1 @@
+Faça um programa para introduzir 2 números e fazer a soma destes 2 números. Se a soma for maior ou igual a 10, calcular o dobro deste valor. Caso a soma destes 2 números for menor que 10, calcular o triplo desta soma.
